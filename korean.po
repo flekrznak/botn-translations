@@ -18,21 +18,21 @@ msgstr ""
 #: /Game/Dialogue/Fern/DefaultP3/FernDefault03_R02.Default__FernDefault03_R02_C.SessionData.Lines(1).Lines
 msgctxt ",0009BEE346934010A7F79C8CF23B20D5"
 msgid "This is my final form, and it feels so amazing. I smell beautiful too!"
-msgstr ""
+msgstr "이게 나의 마지막 모습인데 너무 놀라워 내 냄새가 아름다워!"
 
 #. Key:	002DAFE7433D240D0A5822A932016D65
 #. SourceLocation:	/Game/Ranch/Upgrades/BovaurShed.Default__BovaurShed_C.Upgrade.DisplayName
 #: /Game/Ranch/Upgrades/BovaurShed.Default__BovaurShed_C.Upgrade.DisplayName
 msgctxt ",002DAFE7433D240D0A5822A932016D65"
 msgid "Bovaur Shed"
-msgstr ""
+msgstr "Bovaur 헛간"
 
 #. Key:	0061A5124B098F61DE991D81AB884112
 #. SourceLocation:	/Game/Dialogue/Cassie/Default/CassieDefault01_Meow.Default__CassieDefault01_Meow_C.SessionData.LinesToFemale(3).LinesToFemale
 #: /Game/Dialogue/Cassie/Default/CassieDefault01_Meow.Default__CassieDefault01_Meow_C.SessionData.LinesToFemale(3).LinesToFemale
 msgctxt ",0061A5124B098F61DE991D81AB884112"
 msgid "This little leather tool belt can barely contain my butter stick!"
-msgstr ""
+msgstr "작은 가죽 공구 벨트는 내 버터스틱을 담을 수 없어!"
 
 #. Key:	01386D9C478E6BE9974F00942E5EA1E0
 #. SourceLocation:	/Game/Dialogue/Mirru/Default/MirruDefault01_RL.Default__MirruDefault01_RL_C.ResponseData(0).ResponseData.BreederPrompt
@@ -46,21 +46,21 @@ msgstr ""
 #: /Game/Dialogue/AmberMae/Default/AmberMaeDefault01_SuckJugs.Default__AmberMaeDefault01_SuckJugs_C.SessionData.Lines(3).Lines
 msgctxt ",014BFFCA4F173DACEC2A00A8398888F4"
 msgid "Aye, yer not leaving 'til you suck every last drop!"
-msgstr ""
+msgstr "그래, 마지막 한 방울까지 짜줄때까지 떠나지마!"
 
 #. Key:	017B23B341D5CE5BB9CC0293262CBD91
 #. SourceLocation:	/Game/Ranch/Upgrades/HarpyAviary.Default__HarpyAviary_C.Upgrade.Description
 #: /Game/Ranch/Upgrades/HarpyAviary.Default__HarpyAviary_C.Upgrade.Description
 msgctxt ",017B23B341D5CE5BB9CC0293262CBD91"
 msgid "This allows you to catch and store all variants of Harpies."
-msgstr ""
+msgstr "이것은 당신이 모든 종류의 하피들을 잡아서 보관 할 수 있게 해주는것이다."
 
 #. Key:	017CCB4443E3658AEA961E9EDC5B53BF
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToFuta(4).LinesToFuta
 #: /Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToFuta(4).LinesToFuta
 msgctxt ",017CCB4443E3658AEA961E9EDC5B53BF"
 msgid "And I'm one of them! A blessed female Painted Elf to be exact!"
-msgstr ""
+msgstr "나도 그들 중 한명이야! 정확히 말하자면 축복받은 페인팅 엘프!"
 
 #. Key:	0180484249AE71470005A78484607A18
 #. SourceLocation:	/Game/Dialogue/Romy/Default/RomyDefault01_AboutMusic.Default__RomyDefault01_AboutMusic_C.SessionData.Lines(1).Lines
@@ -81,14 +81,14 @@ msgstr ""
 #: /Game/Dialogue/Neela/Default/NeelaGreeting01.Default__NeelaGreeting01_C.SessionData.Lines(0).Lines
 msgctxt ",01DE9F6A42AB1019681AE1B74E68632C"
 msgid "Well now, this is a rare sight."
-msgstr ""
+msgstr "음 보기 드문 광경인데."
 
 #. Key:	028C9ACB45CFD05DB106DBA06B056886
 #. SourceLocation:	/Game/World/Overworld.Overworld:PersistentLevel.StarfallenMonolith.ManageActionMessage
 #: /Game/World/Overworld.Overworld:PersistentLevel.StarfallenMonolith.ManageActionMessage
 msgctxt ",028C9ACB45CFD05DB106DBA06B056886"
 msgid "Manage your Starfallen"
-msgstr ""
+msgstr "당신의 Starfallen 관리"
 
 #. Key:	02A5F6F34ADE67C0A32ECE8E542DCC88
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToMale(26).LinesToMale
@@ -109,7 +109,7 @@ msgstr ""
 #: /Game/Dialogue/Leylanna/Default/LeylannaDefault01_RechargeSpiritForm_RL_T.Default__LeylannaDefault01_RechargeSpiritForm_RL_T_C.ResponseData(1).ResponseData.BreederPrompt
 msgctxt ",02FDE6D44BCEE7E9CD0113AACDF9C4E2"
 msgid "This is getting weird..."
-msgstr ""
+msgstr "점점..이상해지고 있어.."
 
 #. Key:	034A5C0F4CB9984BC7F902A4AE65BB8A
 #. SourceLocation:	/Game/Dialogue/Camilla/Default/CamillaDefault01_R05.Default__CamillaDefault01_R05_C.SessionData.Lines(0).Lines
@@ -123,14 +123,14 @@ msgstr ""
 #: /Game/Characters/Procedural/Variants/Titan/Harvest/TitanHarvest.Default__TitanHarvest_C.Harvest.Description
 msgctxt ",035C033E4F7C9048462B63880FD96732"
 msgid "Titan body fluids."
-msgstr ""
+msgstr "Titan 의 체액"
 
 #. Key:	035F52234F8DA96ED37A5AAC5DD88039
 #. SourceLocation:	/Game/Dialogue/Camilla/SexScenes/CamillaAdorableLump.Default__CamillaAdorableLump_C.SessionData.LinesToMale(4).LinesToMale
 #: /Game/Dialogue/Camilla/SexScenes/CamillaAdorableLump.Default__CamillaAdorableLump_C.SessionData.LinesToMale(4).LinesToMale
 msgctxt ",035F52234F8DA96ED37A5AAC5DD88039"
 msgid "Ahh, plant your delicious seed in my little body! Give me... ohhh... all of it!"
-msgstr ""
+msgstr "아..! 맛있는 너의 씨앗을 내 작은 몸에 심어줘..! 다..전부다..!"
 
 #. Key:	03BD054E4D9907C2DF497EA4DCC0D8C3
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToFemale(6).LinesToFemale
@@ -144,28 +144,28 @@ msgstr ""
 #: /Game/Dialogue/Fern/Default/FernDefault01_RL_T.Default__FernDefault01_RL_T_C.ResponseData(0).ResponseData.BreederPrompt
 msgctxt ",03C3FCAE4B8424BCF5F580BC933E08E8"
 msgid "Why did you call me master?"
-msgstr ""
+msgstr "왜 나를 주인님 이라고 불렀어?"
 
 #. Key:	03FDE484412EB5432BA89A9FF52176AD
 #. SourceLocation:	/Game/Dialogue/Cassie/SexScenes/CassieSplintersT.Default__CassieSplintersT_C.SessionData.Lines(3).Lines
 #: /Game/Dialogue/Cassie/SexScenes/CassieSplintersT.Default__CassieSplintersT_C.SessionData.Lines(3).Lines
 msgctxt ",03FDE484412EB5432BA89A9FF52176AD"
 msgid "Meow! It feels so good! I'm going to get kitty cum all over myself!"
-msgstr ""
+msgstr "야옹! 기분이 너무 좋아! 나 자신을 완전히 모든걸 사로잡을 거야!"
 
 #. Key:	04205AC945DE4E603D9147AFE4BB7547
 #. SourceLocation:	/Game/Dialogue/Neela/SexScenes/NeelaSnakeCuddleT.Default__NeelaSnakeCuddleT_C.SessionData.Lines(0).Lines
 #: /Game/Dialogue/Neela/SexScenes/NeelaSnakeCuddleT.Default__NeelaSnakeCuddleT_C.SessionData.Lines(0).Lines
 msgctxt ",04205AC945DE4E603D9147AFE4BB7547"
 msgid "Ohh yes! Ahhh... penetrate my ancient vagina..."
-msgstr ""
+msgstr "오..그래! 아아아앙..내..고대의 음부 침투해..."
 
 #. Key:	04744CA84CBAE9AB13EA1989A23A0DDC
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01.Default__FaleneDefault01_C.SessionData.Lines(0).Lines
 #: /Game/Dialogue/Falene/Default/FaleneDefault01.Default__FaleneDefault01_C.SessionData.Lines(0).Lines
 msgctxt ",04744CA84CBAE9AB13EA1989A23A0DDC"
 msgid "I will leave your ranch soon! But don't worry, you can find me in Hedon."
-msgstr ""
+msgstr "나는 곧 너의 목장을 떠날거야 하지만 걱정마 나는 Hedon 에서 날 찾을 수 있어"
 
 #. Key:	04809803498EAC7920E3F09D8A29F0BF
 #. SourceLocation:	/Game/Dialogue/Fern/Default/FernGreeting01.Default__FernGreeting01_C.SessionData.Lines(4).Lines
